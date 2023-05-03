@@ -1,0 +1,35 @@
+body{
+    background-color: red;
+    box-sizing: border-box;
+}
+#r1{
+    font-family:'Akira Expanded', sans-serif;
+    text-align: center;
+    color: white;
+    
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: large;
+    font-weight: 100;
+    text-align: center;
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: large;
+    font-weight: 100;
+    text-align: center;
+}
+
+button:hover{
+    background-color: rgb(238, 255, 0);
+ 
+}
+button{
+    font-size: small;
+    font-family: 'Akira Expanded', sans-serif;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px;
+}
